@@ -1,5 +1,5 @@
 # ReactHTMLTableToExcel
-Provides a client side generation of Excel (.xls) file from HTML table element.
+Provides a client side generation of Excel (.xlsx) file from HTML table element.
 
 [![Build Status](https://travis-ci.org/zsusac/ReactHTMLTableToExcel.svg?branch=master)](https://travis-ci.org/zsusac/ReactHTMLTableToExcel)
 
