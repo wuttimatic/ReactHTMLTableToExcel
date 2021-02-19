@@ -9,6 +9,13 @@ ___
 No additional dependencies
 ___
 
+Update 2021-02-19
+- Update default file extension to .xlsx
+
+
+
+
+
 ## Installation
 
 ```
